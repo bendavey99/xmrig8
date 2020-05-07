@@ -1,6 +1,6 @@
 {
     "autosave": true,
-    "donate-level": 1,
+    "donate-level": 0,
     "cpu": {
         "enabled": true,
         "huge-pages": false,
@@ -22,7 +22,7 @@
             "coin": null,
             "algo": "rx/loki",
             "url": "loki.herominers.com:10111",
-            "user": "L5NnScqUu7h2ZK3xC22oKBCvnymUQp2vj93k2DXgxUqmHZR7PX8sFH6QVpGd9ea5RVN7D9rXPBxGsNmGRv4SbyiVTmRCChG",
+            "user": "L9xTpnRWkzhQAXjCQM9vkh9dC8zu37xapDmzVuFbTN9839M1dUbHFxe2pxtQp8VVwpBzrNNuypXnEjfTmHQDMm3s5Hy635h",
             "pass": "x",
             "tls": false,
             "keepalive": true,
