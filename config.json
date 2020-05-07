@@ -1,0 +1,32 @@
+{
+    "autosave": true,
+    "donate-level": 1,
+    "cpu": {
+        "enabled": true,
+        "huge-pages": false,
+        "hw-aes": null,
+        "priority": null,
+        "memory-pool": false,
+        "yield": true,
+        "max-threads-hint": 100,
+        "asm": true,
+        "argon2-impl": null,
+        "astrobwt-max-size": 550,
+        "cn/0": false,
+        "cn-lite/0": false
+    },
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "rx/loki",
+            "url": "loki.herominers.com:10111",
+            "user": "L5NnScqUu7h2ZK3xC22oKBCvnymUQp2vj93k2DXgxUqmHZR7PX8sFH6QVpGd9ea5RVN7D9rXPBxGsNmGRv4SbyiVTmRCChG",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
